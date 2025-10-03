@@ -11,7 +11,7 @@ int main()
     }
   else
   {
-     printf("ALPHA");
+     printf("ALPHA\n");
     if(ch>='A' && ch<='Z')
     {
         printf("IS CAPITAL");

@@ -10,15 +10,15 @@ int main()
     }
     else if(b<=a && b<=c)
     {
-        printf("%d",b);
+        printf("%d ",b);
     }
     else if(c<=a && c<=b)
     {
-        printf("%d",c);
+        printf("%d ",c);
     }
     if(a>=b && a>=c)
     {
-        printf("%d ",a);
+        printf("%d",a);
 
     }
     else if(b>=a && b>=c)
